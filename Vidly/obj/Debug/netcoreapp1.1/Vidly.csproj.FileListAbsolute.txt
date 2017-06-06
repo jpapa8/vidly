@@ -1,0 +1,18 @@
+C:\Users\JPapa\Google Drive\Projects\Lessons\CompleteMvc5Course\Vidly\Vidly\bin\Debug\netcoreapp1.1\Vidly.deps.json
+C:\Users\JPapa\Google Drive\Projects\Lessons\CompleteMvc5Course\Vidly\Vidly\bin\Debug\netcoreapp1.1\Vidly.runtimeconfig.json
+C:\Users\JPapa\Google Drive\Projects\Lessons\CompleteMvc5Course\Vidly\Vidly\bin\Debug\netcoreapp1.1\Vidly.runtimeconfig.dev.json
+C:\Users\JPapa\Google Drive\Projects\Lessons\CompleteMvc5Course\Vidly\Vidly\bin\Debug\netcoreapp1.1\Vidly.dll
+C:\Users\JPapa\Google Drive\Projects\Lessons\CompleteMvc5Course\Vidly\Vidly\bin\Debug\netcoreapp1.1\Vidly.pdb
+C:\Users\JPapa\Google Drive\Projects\Lessons\CompleteMvc5Course\Vidly\Vidly\obj\Debug\netcoreapp1.1\Vidly.csprojResolveAssemblyReference.cache
+C:\Users\JPapa\Google Drive\Projects\Lessons\CompleteMvc5Course\Vidly\Vidly\obj\Debug\netcoreapp1.1\Vidly.AssemblyInfo.cs
+C:\Users\JPapa\Google Drive\Projects\Lessons\CompleteMvc5Course\Vidly\Vidly\obj\Debug\netcoreapp1.1\Vidly.dll
+C:\Users\JPapa\Google Drive\Projects\Lessons\CompleteMvc5Course\Vidly\Vidly\obj\Debug\netcoreapp1.1\Vidly.pdb
+E:\Projects\CompleteMvc5Course\Vidly\Vidly\bin\Debug\netcoreapp1.1\Vidly.deps.json
+E:\Projects\CompleteMvc5Course\Vidly\Vidly\bin\Debug\netcoreapp1.1\Vidly.runtimeconfig.json
+E:\Projects\CompleteMvc5Course\Vidly\Vidly\bin\Debug\netcoreapp1.1\Vidly.runtimeconfig.dev.json
+E:\Projects\CompleteMvc5Course\Vidly\Vidly\bin\Debug\netcoreapp1.1\Vidly.dll
+E:\Projects\CompleteMvc5Course\Vidly\Vidly\bin\Debug\netcoreapp1.1\Vidly.pdb
+E:\Projects\CompleteMvc5Course\Vidly\Vidly\obj\Debug\netcoreapp1.1\Vidly.csprojResolveAssemblyReference.cache
+E:\Projects\CompleteMvc5Course\Vidly\Vidly\obj\Debug\netcoreapp1.1\Vidly.AssemblyInfo.cs
+E:\Projects\CompleteMvc5Course\Vidly\Vidly\obj\Debug\netcoreapp1.1\Vidly.dll
+E:\Projects\CompleteMvc5Course\Vidly\Vidly\obj\Debug\netcoreapp1.1\Vidly.pdb
